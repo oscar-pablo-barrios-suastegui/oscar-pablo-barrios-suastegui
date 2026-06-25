@@ -1,6 +1,7 @@
 # Hi, I'm Oscar Pablo Barrios Suastegui 👋
+I am 17 years old 🎂
 
-I am a High School Software Engineering Student currently in my 4th semester, based in Mexico. I am passionate about learning backend development and building console applications.
+I am a High School Programing Student currently in my 5th semester, based in Mexico. I am passionate about learning backend development and building console applications.
 
 ## 🚀 About Me
 - 🎓 Studying Computer Science / Programming in High School.
