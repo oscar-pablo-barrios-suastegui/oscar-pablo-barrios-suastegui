@@ -9,9 +9,9 @@ I am a High School Programing Student currently in my 5th semester, based in Mex
 - 🎯 Goal: Master C# and PHP, and eventually work as a remote Software Engineer.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, Java
-- **Tools & Environments:** Git, VS Code, NetBeans
-- **Learning:** C#, PHP, Technical English
+- **Languages:** Python, Java.
+- **Tools & Environments:** Git, VS Code, NetBeans.
+- **Learning:** C#, PHP, Technical English.
 
 ## 📂 Featured Projects
 *(Check my repositories below to see my console applications in Java and Python!)*
