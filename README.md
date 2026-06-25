@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Oscar Pablo Barrios Suastegui 👋
 
-<!--
-**oscar-pablo-barrios-suastegui/oscar-pablo-barrios-suastegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a High School Software Engineering Student currently in my 4th semester, based in Mexico. I am passionate about learning backend development and building console applications.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Studying Computer Science / Programming in High School.
+- ⚡ 1 year of academic experience building logic and algorithms.
+- 🎯 Goal: Master C# and PHP, and eventually work as a remote Software Engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, Java
+- **Tools & Environments:** Git, VS Code, NetBeans
+- **Learning:** C#, PHP, Technical English
+
+## 📂 Featured Projects
+*(Check my repositories below to see my console applications in Java and Python!)*
